@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 import { SiApple } from "react-icons/si";
 import { BiLogoPlayStore } from "react-icons/bi";
 import { BsArrowDown, BsTwitch, BsTwitter, BsInstagram } from "react-icons/bs";
