@@ -6,7 +6,7 @@ import bitcoin from "../Assets/bitcoin.png"
 import floor from "../Assets/floor.png"
 import graph from "../Assets/graph.png";
 import apple from "../Assets/apple.png"
-import playstore from "../Assets/playstore.png"
+import playstore from " ../Assets/playstore.png"
 
 const Investing = () => {
   return (
